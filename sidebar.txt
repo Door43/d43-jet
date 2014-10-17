@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jet:home|Door43 (jet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jet|d43-jet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jet/archive/master.zip|d43-jet.zip]]
+
+**Recent Changes**
+{{changes>ns = jet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jet|Ethnologue data]]
+
